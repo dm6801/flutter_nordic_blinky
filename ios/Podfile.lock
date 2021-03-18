@@ -1,0 +1,47 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_ble_lib (2.3.1):
+    - Flutter
+    - MultiplatformBleAdapter (~> 0.1.7)
+  - location (0.0.1):
+    - Flutter
+  - MultiplatformBleAdapter (0.1.7)
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - system_setting (0.1.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ble_lib (from `.symlinks/plugins/flutter_ble_lib/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - system_setting (from `.symlinks/plugins/system_setting/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MultiplatformBleAdapter
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ble_lib:
+    :path: ".symlinks/plugins/flutter_ble_lib/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  system_setting:
+    :path: ".symlinks/plugins/system_setting/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_ble_lib: 12143505774d055781b836052cf0b2c2a2257b0b
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  MultiplatformBleAdapter: 975cfb2a333b2c42b7a11628bd100ccb61872da2
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  system_setting: 92cc591ade5113a6fd57ed0702dc5eaa9f5337e5
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.1
